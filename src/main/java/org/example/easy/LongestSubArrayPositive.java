@@ -111,5 +111,6 @@ public class LongestSubArrayPositive {
         int k=scanner.nextInt();
         int maxlen = LongestSubArrayPositive.longestSubArray(arr, k);
         System.out.println(maxlen);
+
     }
 }
